@@ -51,9 +51,21 @@ I'm interested in remote international opportunities and collaborations in Data 
 
 ### Operational Efficiency Analytics
 
-A Python-based data analytics project focused on evaluating manufacturing performance across three industrial plants using reproducible synthetic data.
+Python-based analytics project focused on evaluating manufacturing performance across three industrial plants using reproducible synthetic data.
 
 The analysis covers availability, performance, quality, Overall Equipment Effectiveness (OEE), and operational losses.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Pytest
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Misael-Rodrigues/eficiencia-operativa-analytics/main/reports/figures/oee_por_planta.png" alt="Operational Efficiency Analytics - OEE by Plant" width="700"/>
+</p>
 
 **Highlights**
 - Operational KPI calculation and analysis
@@ -62,17 +74,25 @@ The analysis covers availability, performance, quality, Overall Equipment Effect
 - Reproducible synthetic datasets
 - 18 automated tests validated through GitHub Actions
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Pytest
-
 [View Repository](https://github.com/Misael-Rodrigues/eficiencia-operativa-analytics)
 
 ---
 
 ### Fraud Detection | Machine Learning
 
-A machine learning project focused on identifying potentially fraudulent transactions using data analysis and predictive modeling techniques.
+Machine learning project focused on identifying potentially fraudulent transactions using data analysis and predictive modeling techniques.
 
 **Focus:** Data Analytics, Fraud Detection, Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D3755?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Highlights**
+- Fraud-oriented analytical approach
+- Exploratory data analysis
+- Predictive modeling workflow
+- Practical machine learning application
 
 [View Repository](https://github.com/Misael-Rodrigues/ML_Identificador_de_Fraude)
 
