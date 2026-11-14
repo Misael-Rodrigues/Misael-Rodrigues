@@ -47,15 +47,23 @@ I'm interested in remote international opportunities and collaborations in Data 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+---
+
 ## Featured Projects
+
+<div align="center">
 
 ### Operational Efficiency Analytics
 
-Python-based analytics project focused on evaluating manufacturing performance across three industrial plants using reproducible synthetic data.
+Python-based data analytics project focused on evaluating manufacturing performance across three industrial plants using reproducible synthetic data.
 
 The analysis covers availability, performance, quality, Overall Equipment Effectiveness (OEE), and operational losses.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Pytest
+<a href="https://github.com/Misael-Rodrigues/eficiencia-operativa-analytics">
+  <img src="assets/operational-efficiency.png" alt="Operational Efficiency Analytics dashboard" width="100%">
+</a>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -63,38 +71,61 @@ The analysis covers availability, performance, quality, Overall Equipment Effect
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Misael-Rodrigues/eficiencia-operativa-analytics/main/reports/figures/oee_por_planta.png" alt="Operational Efficiency Analytics - OEE by Plant" width="700"/>
-</p>
+**1,086 synthetic production records | 3 manufacturing plants | 18 automated tests passed**
 
-**Highlights**
+</div>
+
+**Project highlights**
+
 - Operational KPI calculation and analysis
+- OEE assessment across three industrial plants
 - Data processing with Python and Pandas
 - Automated visualizations and reporting
 - Reproducible synthetic datasets
-- 18 automated tests validated through GitHub Actions
+- Automated testing with Pytest and GitHub Actions
 
-[View Repository](https://github.com/Misael-Rodrigues/eficiencia-operativa-analytics)
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0D3755?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misael-Rodrigues/eficiencia-operativa-analytics)
+
+</div>
 
 ---
 
+<div align="center">
+
 ### Fraud Detection | Machine Learning
 
-Machine learning project focused on identifying potentially fraudulent transactions using data analysis and predictive modeling techniques.
+Machine learning project focused on identifying potentially fraudulent transactions through data analysis and predictive modeling techniques.
 
-**Focus:** Data Analytics, Fraud Detection, Machine Learning
+<a href="https://github.com/Misael-Rodrigues/ML_Identificador_de_Fraude">
+  <img src="assets/fraud-detection.png" alt="Fraud Detection Machine Learning project illustration" width="100%">
+</a>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D3755?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D3755?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Highlights**
-- Fraud-oriented analytical approach
-- Exploratory data analysis
-- Predictive modeling workflow
-- Practical machine learning application
+*Illustrative dashboard concept. The visualizations and figures shown in this cover do not represent verified project results.*
 
-[View Repository](https://github.com/Misael-Rodrigues/ML_Identificador_de_Fraude)
+</div>
+
+**Project focus**
+
+- Fraud detection and transaction analysis
+- Exploratory data analysis
+- Predictive modeling
+- Applied machine learning
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0D3755?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misael-Rodrigues/ML_Identificador_de_Fraude)
+
+</div>
+
+---
 
 ## Current Focus
 
